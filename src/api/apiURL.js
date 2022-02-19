@@ -1,5 +1,5 @@
 // const apiBaseUrl = "http://localhost:3001";
-const apiBaseUrl = "https://buanastore-server.herokuapp.com";
+const apiBaseUrl = "https://larist.herokuapp.com";
 
 export const apiURL = {
   urlProductCountAll: `${apiBaseUrl}/product-count`,
