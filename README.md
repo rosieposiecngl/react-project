@@ -4,6 +4,9 @@ Larist is a client side of a mini-project from Dibimbing course in an e-commerce
 ## Installation
 In the root directory run `npm install` on your terminal.
 
+## API Server
+https://larist.herokuapp.com
+
 ## Run the app
 - In the root directory, you must run `npm start` on your terminal.
 - The app will be running on [http://localhost:3000](http://localhost:3000). Enjoy!
